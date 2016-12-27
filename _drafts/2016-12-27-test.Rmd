@@ -16,17 +16,18 @@ Pinyin
 
 a with tones:  
 
-* `r cat("\U101")`
-* `r cat("\UE1")`
-* `r cat("\U1CE")`
-* `r cat("\UE0")`
+* &#x101;  
+* &#xE1;
+* &#x1CE;
+* &#xE0;
 
 ```{r variables}
-a3 <- "\U1CE"
-i3 <- "\U1D0"
+a3 <- "&#x1CE;"
+i3 <- "&#x1D0;"
 hello <- paste0("n",i3," h",a3,"o")
 cat(hello)
+print(hello)
 ```
 
-
+In-line output: `r hello`
 
