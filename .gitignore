@@ -1,4 +1,24 @@
+<<<<<<< HEAD
 _site/
 .sass-cache/
 .jekyll-metadata
 _site/
+=======
+<<<<<<< HEAD
+_site/*
+_theme_packages/*
+
+Thumbs.db
+.DS_Store
+
+!.gitkeep
+
+.rbenv-version
+.rvmrc
+=======
+_site/
+.sass-cache/
+.jekyll-metadata
+>>>>>>> 320c3e4a29679e8660062d63af192be03648af85
+.Rproj.user
+>>>>>>> ca1115ed0d087c3e015b941a17b5b99f5e7f32f5
