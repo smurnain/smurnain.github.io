@@ -1,5 +1,5 @@
 baseurl = "/"
-publishDir = "."
+#publishDir = "."
 languageCode = "en-au"
 title = "A Hugo website"
 theme = "hugo-lithium-theme"
