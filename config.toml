@@ -1,10 +1,11 @@
 baseurl = "/"
 publishDir = "."
-languageCode = "en-us"
+languageCode = "en-au"
 title = "A Hugo website"
 theme = "hugo-lithium-theme"
 googleAnalytics = ""
 disqusShortname = ""
+picture = "logo.png" # the path to the logo
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [permalinks]
