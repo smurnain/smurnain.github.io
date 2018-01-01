@@ -1,8 +1,8 @@
 ---
-title: Things I wish I was told when I started learning Japanese - Part 1
+title: Things I wish I knew when I started learning Japanese - 1
 author: ~
 date: '2018-01-01'
-slug: things-i-wish-i-was-told-when-i-started-learning-japanese-part-1
+slug: things-i-wish-i-knew-when-i-started-learning-japanese-1
 categories: [learning]
 tags: [Japanese]
 ---

@@ -12,31 +12,12 @@
     
     
     <item>
-      <title>Things I wish I was told when I started learning Japanese - Part 1</title>
-      <link>/2018/01/01/things-i-wish-i-was-told-when-i-started-learning-japanese-part-1/</link>
+      <title>Things I wish I knew when I started learning Japanese - 1</title>
+      <link>/2018/01/01/things-i-wish-i-knew-when-i-started-learning-japanese-1/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/01/01/things-i-wish-i-was-told-when-i-started-learning-japanese-part-1/</guid>
+      <guid>/2018/01/01/things-i-wish-i-knew-when-i-started-learning-japanese-1/</guid>
       <description>The hirigana sylable は is pronounced &amp;lsquo;ha&amp;rsquo; except when used as a particle, in which case it is pronounced &amp;lsquo;wa&amp;rsquo;.</description>
-    </item>
-    
-    <item>
-      <title>Test Post</title>
-      <link>/2017/09/12/test-post/</link>
-      <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/2017/09/12/test-post/</guid>
-      <description>Hello world</description>
-    </item>
-    
-    <item>
-      <title>A Plain Markdown Post</title>
-      <link>/2016/12/30/a-plain-markdown-post/</link>
-      <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>
-      
-      <guid>/2016/12/30/a-plain-markdown-post/</guid>
-      <description>This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
- You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.  There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown.</description>
     </item>
     
   </channel>
